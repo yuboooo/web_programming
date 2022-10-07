@@ -1,0 +1,15 @@
+$color: green;
+
+
+ul {
+    font-size: 14px;
+    color: $color;
+}
+
+ol {
+    font-size: 18px;
+    color: $color;
+}
+
+// sass variables.scss:variables.css
+// sass --watch variables.scss:variables.css
